@@ -2,7 +2,7 @@
 "profile":
 [
 {
-"policynumber": 66876678;
+"policynumber": 66876678,
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
@@ -11,7 +11,7 @@
 "sumInsured":78798977
 },
 {
-"policynumber": 66876679;
+"policynumber": 66876679,
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
@@ -20,7 +20,7 @@
 "sumInsured":787989717
 },
 {
-"policynumber": 66876680;
+"policynumber": 66876680,
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
@@ -29,7 +29,7 @@
 "sumInsured":78798977
 }
 {
-"policynumber": 66854680;
+"policynumber": 66854680,
 "idType":"Passport",
 "idNumber": "712377",
 "status": "Active",
@@ -38,7 +38,7 @@
 "sumInsured":78798977
 }
 {
-"policynumber": 66834680;
+"policynumber": 66834680,
 "idType":"Passport",
 "idNumber": "750077",
 "status": "Active",
