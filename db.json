@@ -2,49 +2,49 @@
 "profile":
 [
 {
-"policynumber": 66876678,
+"policynumber": "66876678",
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
-"premium": 78978979,
+"premium": "78978979",
 "riskAddress":" Philatelic Services    Private Bag X505    Pretoria    0001    South Africa",
-"sumInsured":78798977
+"sumInsured":"78798977"
 },
 {
-"policynumber": 66876679,
+"policynumber": "66876679",
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
-"premium": 78978979,
+"premium": "78978979",
 "riskAddress":" Mr. J. Public    1234 Church Street    Colloyn    PRETORIA    0083 SOUTH AFRICA",
-"sumInsured":787989717
+"sumInsured":"787989717"
 },
 {
-"policynumber": 66876680,
+"policynumber": "66876680",
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
-"premium": 789789802,
+"premium": "789789802",
 "riskAddress":"Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
-"sumInsured":78798977
+"sumInsured":"78798977"
 }
 {
-"policynumber": 66854680,
+"policynumber": "66854680",
 "idType":"Passport",
 "idNumber": "712377",
 "status": "Active",
-"premium": 789789802,
+"premium": "789789802",
 "riskAddress":"Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
-"sumInsured":78798977
+"sumInsured":"78798977"
 }
 {
-"policynumber": 66834680,
+"policynumber": "66834680",
 "idType":"Passport",
 "idNumber": "750077",
 "status": "Active",
-"premium": 789789802,
+"premium": "789789802",
 "riskAddress":"Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
-"sumInsured":78798977
+"sumInsured":"78798977"
 }
 ]
 }
