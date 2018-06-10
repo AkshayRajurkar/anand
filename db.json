@@ -6,7 +6,7 @@
    "idType": "Passport",
    "idNumber": "756777",
    "status": "Active",
-   "premium": 78978979,
+   "premium": 78978970,
    "riskAddress": " Philatelic Services    Private Bag X505    Pretoria    0001    South Africa",
    "sumInsured": 78798977
 },
@@ -24,7 +24,7 @@
    "idType": "Passport",
    "idNumber": "756777",
    "status": "Active",
-   "premium": 789789802,
+   "premium": 789789852,
    "riskAddress": "Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
    "sumInsured": 78798977
 },
@@ -40,9 +40,9 @@
 {
    "policynumber": 66834682,
    "idType": "Passport",
-   "idNumber": "756777",
+   "idNumber": "750077",
    "status": "Active",
-   "premium": 788789902,
+   "premium": 789789802,
    "riskAddress": "Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
    "sumInsured": 78798977
 }
