@@ -1,0 +1,23 @@
+{
+"profile":
+[
+{
+"policynumber": 66876678;
+"idType":"Passport",
+"idNumber": "756777",
+"status": "Active",
+"premium": 78978979,
+"riskAddress":" Philatelic Services    Private Bag X505    Pretoria    0001    South Africa",
+"sumInsured":78798977
+},
+{
+"policynumber": 66876679;
+"idType":"Passport",
+"idNumber": "756777",
+"status": "Active",
+"premium": 78978979,
+"riskAddress":" Mr. J. Public    1234 Church Street    Colloyn    PRETORIA    0083 SOUTH AFRICA",
+"sumInsured":787989717
+}
+]
+}
