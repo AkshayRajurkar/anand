@@ -2,7 +2,7 @@
 "profile":
 [
 {
-"policynumber": 66876678;
+"policynumber": 66876678,
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
@@ -11,7 +11,7 @@
 "sumInsured":78798977
 },
 {
-"policynumber": 66876679;
+"policynumber": 66876679,
 "idType":"Passport",
 "idNumber": "756777",
 "status": "Active",
