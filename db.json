@@ -18,34 +18,6 @@
    "premium": 78978979,
    "riskAddress": " Mr. J. Public    1234 Church Street    Colloyn    PRETORIA    0083 SOUTH AFRICA",
    "sumInsured": 787989717
-},
-{
-   "policynumber": 66876680,
-   "idType": "Passport",
-   "idNumber": "756777",
-   "status": "Active",
-   "premium": 789789852,
-   "riskAddress": "Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
-   "sumInsured": 78798977
-},
-{
-   "policynumber": 66854681,
-   "idType": "Passport",
-   "idNumber": "756777",
-   "status": "Active",
-   "premium": 789789922,
-   "riskAddress": "Customer Services    233 Jacob Mare Street    Pretoria    0010    South Africa",
-   "sumInsured": 78798977
-},
-{
-   "policynumber": 66834682,
-   "idType": "Passport",
-   "idNumber": "750077",
-   "status": "Active",
-   "premium": 789789802,
-   "riskAddress": "Customer Services    497 Jacob Mare Street    Pretoria    0001    South Africa",
-   "sumInsured": 78798977
 }
-
 ]
 }
